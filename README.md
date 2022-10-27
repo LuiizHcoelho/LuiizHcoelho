@@ -1,6 +1,6 @@
 
 - 👋 Olá, eu sou o LuiizHcoelho. 
-- 👀 Hoje trabalho com Back-End e Análise de Dados
+- 👀 Hoje trabalho com Front-End e Análise de Dados
 - 🌱 Estudando Phyton, Power Bi, Excel, Power Apps, SQL e JavaScript.
 
   <div align="center">
